@@ -1,4 +1,8 @@
 <!-- markdownlint-disable first-line-h1 -->
+- IT筆記
+  - [本地LLM模型](local-llm.md)
+  - [AI Agent](ai-agent.md)
+  - [硬體配件](hardware.md)
 
 - Getting started
 
